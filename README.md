@@ -17,5 +17,5 @@ Here are some ideas to get you started:-->
 I am a Cybersecurity enthusiast and have been passionate about the subject since I was a young student. I have studied multiple aspects of cybersecurity, including cryptography, malware analysis, forensics,security architecture, and ethical hacking. I have a great deal of interest in cyber security, including working with organizations as a freelancer to ensure the security of their systems. I am also very passionate about helping people understand the importance of cyber security and how to stay safe online.
 
 ### What do I do for Fun?
-- I love doing marathon & trecking
+- I love doing marathon & tracking
 - Reading about APT and their techniques
