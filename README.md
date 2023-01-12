@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my Penetration testing skills
-- 🌱 I’m currently learning Cloud security
+- 🔭 I’m currently working on my Cloud security skills
+- 🌱 Just a Offensive security person :) 
 - 👯 I’m looking to collaborate on Bug Hunting
 - 📫 Twitter - https://twitter.com/0x_Havoc
 - ✨ Linkdin https://www.linkedin.com/in/himanshu-devli-3223051bb/
